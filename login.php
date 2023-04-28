@@ -13,15 +13,15 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-          <a href="index.html">
+          <a href="index.php">
             <img id="logo" src="./img/energy.webp" width="100%" height="100%" alt="Site de Energy Drink">
           </a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="mercadoria.html">Buscar Produtos</a></li>
-                        <li><a href="login.html">Login</a></li>
-						<li><a href="contato.html">Entre em Contato</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="mercadoria.php">Buscar Produtos</a></li>
+                        <li><a href="login.php">Login</a></li>
+						<li><a href="contato.php">Entre em Contato</a></li>
 					</ul>
 				</div>
 			</nav>

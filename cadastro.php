@@ -12,10 +12,9 @@
     <ul>
         
         <li><img src="./img/energy.webp" width="100" height="50"> <a href="#"></a></li>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="#news">Vagas</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li style="float:right"><a class="active" href="#about">About</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="mercadoria.php">Bsucar Produtos</a></li>
+        <li><a href="#contato.php">Contact</a></li>
       </ul>
 
 <div style="display:inline-block;vertical-align:top;">
